@@ -1,7 +1,5 @@
 # Portfólio
 
-Demonstração: https://www.youtube.com/watch?v=ceer2a-ofWw
-
  Projeto realizado para o challenge da AluraGeek do Oracle Next Education.
 
 ## Sobre o Projeto
